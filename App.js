@@ -14,7 +14,7 @@ export default function App() {
   const [local, setLocal] = useState('');
   const [apiData, setApiData] = useState(null);
 
-  const apiKey = '83bbebf93116e9adb78ac5c76573d5bb';
+  const apiKey = '';
 
   useEffect(() => {
     const getWeatherData = async () => {
