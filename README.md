@@ -1,1 +1,1 @@
-Este é um aplicativo de clima desenvolvido como parte de uma atividade acadêmica, utilizando React Native e Expo. Ele consome dados da API do Weather para exibir informações climáticas em temp
+Este é um aplicativo de clima desenvolvido como parte de uma atividade acadêmica, utilizando React Native e Expo. Ele consome dados da API do Weather para exibir informações climáticas em tempo real, como temperatura, umidade e condições do tempo, com um layout simples e interativo.
